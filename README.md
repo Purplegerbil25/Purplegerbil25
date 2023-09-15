@@ -1,9 +1,10 @@
-👋 Mahalo! I’m @Purplegerbil25 
+🌺 Mahalo! I’m @Purplegerbil25 
 
-(: a baby pentester
-👀 I’m interested in honing my skills
-🌱 I’m currently learning open ports scanning
-💞️ I’m looking for cyberbuddies that wanna collab 
+👾 Pentesting enthusiast
+🛠️ Always eager to hone my skills🔐
+🌍 Currently exploring the world of open ports scanning💻 
+💞️ Seeking cyberbuddies for collaborative projects👫
+
 - ![Screenshot 2023-09-13 at 11 30 52 PM](https://github.com/Purplegerbil25/Purplegerbil25/assets/144363164/dbe1f8d6-2285-4997-bda4-d667168a05f4)
 
 
